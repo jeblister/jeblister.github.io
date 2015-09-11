@@ -3,6 +3,7 @@ layout: post
 title: Example content
 comments: true
 category: Misc
+tags: [web, jekyll]
 ---
 
 
