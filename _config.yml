@@ -9,23 +9,23 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:            Codinfox
-tagline:          'Learning to be Giant.'
-description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+title:            Code7
+tagline:          'Learning code for Startups, No-Dev, or just for Fun !'
+description:      'Blog of Code7. Here are some Web development tutorials, videos & code, some notes about development.'
+url:              http://jeblister.github.io
 
 author:
-  name:           'Your Name'
-  url:            http://codinfox.github.io
-  gravatar:       https://en.gravatar.com/yourname
-  photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
+  name:           'jeblister'
+  url:            http://twitter.com/jebli_7
+  gravatar:       https://fr.gravatar.com/jebli
+  photo:          https://secure.gravatar.com/avatar/e9c0c32faa7615c33cf77371c4cf5548
   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
 
-paginate:         5
+paginate:         2
 paginate_path:    '/blog/page:num'
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/codinfox/lanyon-codinfox.github.io
+  repo:           https://github.com/jeblister/jeblister.github.io
